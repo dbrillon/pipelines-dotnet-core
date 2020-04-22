@@ -1,3 +1,5 @@
+[![Build Status](https://isaac-rd.visualstudio.com/ISAAC%20Labs/_apis/build/status/dbrillon.pipelines-dotnet-core?branchName=master)](https://isaac-rd.visualstudio.com/ISAAC%20Labs/_build/latest?definitionId=35&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
